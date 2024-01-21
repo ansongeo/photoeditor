@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photoeditor/static/css/main.9734fbb2.css",
+    "main.js": "/photoeditor/static/js/main.982c236e.js",
+    "static/js/787.8361a328.chunk.js": "/photoeditor/static/js/787.8361a328.chunk.js",
+    "index.html": "/photoeditor/index.html",
+    "main.9734fbb2.css.map": "/photoeditor/static/css/main.9734fbb2.css.map",
+    "main.982c236e.js.map": "/photoeditor/static/js/main.982c236e.js.map",
+    "787.8361a328.chunk.js.map": "/photoeditor/static/js/787.8361a328.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9734fbb2.css",
+    "static/js/main.982c236e.js"
+  ]
+}
